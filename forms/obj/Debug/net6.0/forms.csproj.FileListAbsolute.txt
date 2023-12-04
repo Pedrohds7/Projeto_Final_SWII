@@ -1,0 +1,14 @@
+C:\Users\belid\OneDrive\Desktop\Projeto_Final\forms\bin\Debug\net6.0\forms.exe
+C:\Users\belid\OneDrive\Desktop\Projeto_Final\forms\bin\Debug\net6.0\forms.deps.json
+C:\Users\belid\OneDrive\Desktop\Projeto_Final\forms\bin\Debug\net6.0\forms.runtimeconfig.json
+C:\Users\belid\OneDrive\Desktop\Projeto_Final\forms\bin\Debug\net6.0\forms.dll
+C:\Users\belid\OneDrive\Desktop\Projeto_Final\forms\bin\Debug\net6.0\forms.pdb
+C:\Users\belid\OneDrive\Desktop\Projeto_Final\forms\obj\Debug\net6.0\forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belid\OneDrive\Desktop\Projeto_Final\forms\obj\Debug\net6.0\forms.AssemblyInfoInputs.cache
+C:\Users\belid\OneDrive\Desktop\Projeto_Final\forms\obj\Debug\net6.0\forms.AssemblyInfo.cs
+C:\Users\belid\OneDrive\Desktop\Projeto_Final\forms\obj\Debug\net6.0\forms.csproj.CoreCompileInputs.cache
+C:\Users\belid\OneDrive\Desktop\Projeto_Final\forms\obj\Debug\net6.0\forms.dll
+C:\Users\belid\OneDrive\Desktop\Projeto_Final\forms\obj\Debug\net6.0\refint\forms.dll
+C:\Users\belid\OneDrive\Desktop\Projeto_Final\forms\obj\Debug\net6.0\forms.pdb
+C:\Users\belid\OneDrive\Desktop\Projeto_Final\forms\obj\Debug\net6.0\forms.genruntimeconfig.cache
+C:\Users\belid\OneDrive\Desktop\Projeto_Final\forms\obj\Debug\net6.0\ref\forms.dll
